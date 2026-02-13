@@ -1,6 +1,6 @@
 This is the most okay chair in the world
-It is _super_ comfy!
-running out of ideas pls help
+It is _super_ comfy!!!
+Running out of ideas pls help
 Testing upstream branch
 This change was made completely on GitHub!
 Another local change!
